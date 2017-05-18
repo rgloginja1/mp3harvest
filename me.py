@@ -1,3 +1,5 @@
+#/usr/bin/env pyhton
+
 import sys
 import os.path
 
